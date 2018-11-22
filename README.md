@@ -21,4 +21,17 @@ IV.	The quantized signal is plotted in the same graph as the analog signal as sh
 ![we](https://user-images.githubusercontent.com/25064257/48903849-56319e00-ee65-11e8-9458-5da22f837f67.png)
 
 
+Calculating the Actual Quantization Error Average  and Standard Deviation
 
+I.	Error Signal is calculated as the difference between the sampled sin signal and the quantized sin signal. </br>
+
+![we](https://user-images.githubusercontent.com/25064257/48903990-b1fc2700-ee65-11e8-915d-5adbd9410a21.png)
+
+II.	The average is calculated by summing the all the values of the error signal and dividing by the number of samples</br>
+
+![ee](https://user-images.githubusercontent.com/25064257/48903994-b58fae00-ee65-11e8-826b-1c6fc3c084ec.png)
+
+
+III.	The standard deviation is calculated by taking the square root of the variance which is calculated as follows.</br>
+
+![eee](https://user-images.githubusercontent.com/25064257/48903999-b9bbcb80-ee65-11e8-99f5-72c96235ab67.png)
