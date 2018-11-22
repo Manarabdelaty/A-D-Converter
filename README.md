@@ -35,3 +35,8 @@ II.	The average is calculated by summing the all the values of the error signal 
 III.	The standard deviation is calculated by taking the square root of the variance which is calculated as follows.</br>
 
 ![eee](https://user-images.githubusercontent.com/25064257/48903999-b9bbcb80-ee65-11e8-99f5-72c96235ab67.png)
+
+Analog sin wave plotted with the digitized sin signal after sampling and quantization with the 8 bit ADC
+
+![sine](https://user-images.githubusercontent.com/25064257/48904082-fab3e000-ee65-11e8-9191-717f9b11ccf4.png)
+
